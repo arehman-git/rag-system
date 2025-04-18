@@ -2,8 +2,6 @@
 
 A modern Retrieval-Augmented Generation (RAG) system with a sleek dark-themed interface, built with Flask and Groq's LLM API.
 
-![RAG Assistant Screenshot](https://api.placeholder.com/800/450)
-
 ## Features
 
 - 🔍 **Retrieval-Augmented Generation** - Answers questions based on your document knowledge base
